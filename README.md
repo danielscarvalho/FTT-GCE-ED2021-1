@@ -6,4 +6,4 @@ Deploy simple Java serverless WEB API at the cloud
 
 https://fttec-f2b9d.appspot.com/
 
-[Google Cloud](https://thecloudgirl.dev/images/vs.jpg)
+![Google Cloud](https://thecloudgirl.dev/images/vs.jpg)
